@@ -1,6 +1,9 @@
-# JavaClientForRaspberryPiServerTokeSimon
+JavaClientForRaspberryPiServerTokeSimon
 
 # Dette er vores aflevering.
+
+Medlemmer: Simon, Toke og Emil
+
 
 For at læse vores lille rapport så åben pdf filen: https://github.com/simo215d/JavaClientForRaspberryPiServerTokeSimon/blob/master/Teknologi%20Pi-server%20Aflevering.pdf
 
